@@ -54,7 +54,7 @@ The name is a variable, not the product. Brand strings live at:
 - `<title>` and HUD brand block (top of file)
 - Canvas fallback text (~line 1182)
 
-Change those and it becomes any city — Media City, TTR Enterprise, whatever's
+Change those and it becomes any city — Media City, T2R Enterprise, whatever's
 next. The trader list (`TRADERS`, 12 coins with colors/exchanges) is the other
 thing you'd swap per city.
 
