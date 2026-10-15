@@ -1,0 +1,35 @@
+{
+  "status": "ready",
+  "sourceSessionId": "eb721d89-75b6-474b-9a00-aea4c14951a3",
+  "sourceTurnId": "09b0bc89-b68b-4785-98cf-d281f341dd94",
+  "title": "Trading City",
+  "serve": {
+    "kind": "static",
+    "entry": "index.html"
+  },
+  "cohubWorkId": "ea7052f2-54fd-498b-b605-0911fa9484e9",
+  "cohubWorkSlug": "trading-city",
+  "cohubWorkScopes": [
+    "space.view",
+    "session.view",
+    "file.view",
+    "taskrun.view"
+  ],
+  "cohubAllowedViewerScopes": [
+    "session.prompt.readonly"
+  ],
+  "preview": {
+    "kind": "cohub-work",
+    "workId": "ea7052f2-54fd-498b-b605-0911fa9484e9",
+    "publishedAt": "2026-10-05T06:15:21.940Z",
+    "sourceVersion": "trading-city#sha256:627da4723bd6d3b8ff346cc63d1676a2bb028d5620b56475670cdc6bdb0aa72c"
+  },
+  "thumbnail": {
+    "status": "failed",
+    "source": "screenshot",
+    "sourceUrl": "https://neta.art/w/ea7052f2-54fd-498b-b605-0911fa9484e9",
+    "sourceVersion": "trading-city#sha256:627da4723bd6d3b8ff346cc63d1676a2bb028d5620b56475670cdc6bdb0aa72c",
+    "error": "Chrome screenshot timed out after 30000ms",
+    "updatedAt": "2026-10-05T06:15:52.436Z"
+  }
+}
