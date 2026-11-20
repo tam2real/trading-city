@@ -58,7 +58,3 @@ Change those and it becomes any city — Media City, T2R Enterprise, whatever's
 next. The trader list (`TRADERS`, 12 coins with colors/exchanges) is the other
 thing you'd swap per city.
 
-## Provenance
-
-Built 2026-10-05, exported from neta.art (`meta.json`). Single-file export;
-no secrets or credentials inside — the API base is a runtime parameter.
